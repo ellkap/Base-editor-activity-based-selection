@@ -1,0 +1,8 @@
+jupyter
+gpplot
+statannotations
+scikit-learn
+Bio
+logomaker
+rs3
+poola
